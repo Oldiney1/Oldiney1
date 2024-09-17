@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Oldiney!
+- 
+- 👀 I’m interested in Front-End Development
+- 
+- 🌱 I’m currently learning Java/Python/JavaScript/TypeScript
+- 
+- 📫 How to reach me: /oldiney-galvão on LinkedIn
+- 
+- 😄 Pronouns: He/Him
+- 
+- ⚡ Fun fact: I love ✨Shiny Hunting✨ in Pokémon 
