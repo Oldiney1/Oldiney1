@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning Java/Python/JavaScript/TypeScript
 - 
-- 📫 How to reach me: /oldiney-galvão on LinkedIn
+- 📫 How to reach me: /oldiney-galvao on LinkedIn
 - 
 - 😄 Pronouns: He/Him
 - 
