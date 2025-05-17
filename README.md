@@ -32,14 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/X8AbuiTSKUMAAAAd/pokemon-paldea.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
   <img width="12" />
