@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Português-BR ~ <br><br>- 👋 Oi, eu sou o Oldiney!<br>- <br>- 👀 Grande fã de Pokémon (como você pode ver);<br>- <br>- 🌱 Atualmente estou cursando tecnólogo em Big Data no Agronegócio;<br>- <br>- 😄 Pronomes: Ele/Dele;<br>- <br>- ⚡ Curiosidade: Eu adoro ✨caçar Shinies✨ no Pokémon.</p>
+<p align="left"><h1>Português-BR ~ </h1><br><br>- 👋 Oi, eu sou o Oldiney!<br>- <br>- 👀 Grande fã de Pokémon (como você pode ver);<br>- <br>- 🌱 Atualmente estou cursando tecnólogo em Big Data no Agronegócio;<br>- <br>- 😄 Pronomes: Ele/Dele;<br>- <br>- ⚡ Curiosidade: Eu adoro ✨caçar Shinies✨ no Pokémon.</p>
 
 ###
 
