@@ -8,19 +8,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/7cT0hbq72tEAAAAj/mini-impact-miniimpact.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/XnHOWYiwZEsAAAAm/mini-impact-miniimpact.webp"  />
 
 ###
 
 <p align="left">Português-BR ~ <br><br>👋 Oi, eu sou o Oldiney!<br><br>👀 Grande fã de Pokémon (como você pode ver);<br><br>🌱 Atualmente estou cursando tecnólogo em Big Data no Agronegócio;<br><br>😄 Pronomes: Ele/Dele;<br><br>⚡ Curiosidade: Eu adoro ✨caçar Shinies✨ no Pokémon.</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/XnHOWYiwZEsAAAAm/mini-impact-miniimpact.webp"  />
 
 ###
 
@@ -75,7 +67,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kkkjjjj/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Oldiney1/count.svg?"  />
 </div>
 
 ###
