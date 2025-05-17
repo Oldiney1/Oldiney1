@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">English ~<br><br>- 👋 Hi, I’m Oldiney!<br>- <br>- 👀 Big fan of Pokémon (as you can see);<br>- <br>- 🌱 I am currently pursuing a degree in Big Data Technology for Agribusiness;<br>- <br>- 😄 Pronouns: He/Him;<br>- <br>- ⚡ Fun fact: I love ✨Shiny Hunting✨ in Pokémon.</p>
+<p align="left"><b>English ~</b><br><br>- 👋 Hi, I’m Oldiney!<br>- <br>- 👀 Big fan of Pokémon (as you can see);<br>- <br>- 🌱 I am currently pursuing a degree in Big Data Technology for Agribusiness;<br>- <br>- 😄 Pronouns: He/Him;<br>- <br>- ⚡ Fun fact: I love ✨Shiny Hunting✨ in Pokémon.</p>
 
 ###
 
@@ -12,9 +12,11 @@
 
 ###
 
-<p align="left">Português-BR ~ <br><br>- 👋 Oi, eu sou o Oldiney!<br>- <br>- 👀 Grande fã de Pokémon (como você pode ver);<br>- <br>- 🌱 Atualmente estou cursando tecnólogo em Big Data no Agronegócio;<br>- <br>- 😄 Pronomes: Ele/Dele;<br>- <br>- ⚡ Curiosidade: Eu adoro ✨caçar Shinies✨ no Pokémon.</p>
+<p align="left"><b>Português-BR ~ </b><br><br>- 👋 Oi, eu sou o Oldiney!<br>- <br>- 👀 Grande fã de Pokémon (como você pode ver);<br>- <br>- 🌱 Atualmente estou cursando tecnólogo em Big Data no Agronegócio;<br>- <br>- 😄 Pronomes: Ele/Dele;<br>- <br>- ⚡ Curiosidade: Eu adoro ✨caçar Shinies✨ no Pokémon.</p>
 
 ###
+
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oldiney1/Oldiney1/output/pacman-contribution-graph-dark.svg">
@@ -64,15 +66,8 @@
 
 ###
 
-<br clear="both">
+<hr>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Oldiney1/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
 
 <h4 align="center">See ya later!!!<br><br>'Té mais!!!<br><br>✌✨</h4>
 
